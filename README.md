@@ -1,8 +1,8 @@
 # Attack on Titan: Utopia 🛡️👾
 
-**Attack on Titan: Utopia** is a thrilling single-player, endless tower defense game inspired by the renowned anime series _Attack on Titan_. In this immersive experience, players must strategize and defend the Utopia District from the onslaught of titans that have breached Wall Maria, now threatening the very walls of Wall Rose. 🏰⚔️
+** Attack on Titan: Utopia ** is a thrilling single-player, endless tower defense game inspired by the renowned anime series _Attack on Titan_. In this immersive experience, players must strategize and defend the Utopia District from the onslaught of titans that have breached Wall Maria, now threatening the very walls of Wall Rose. 🏰⚔️
 
-## Table of Contents
+## Table of Contents:
 
 - [Game Overview](#game-overview)
   - [Setting](#setting)
